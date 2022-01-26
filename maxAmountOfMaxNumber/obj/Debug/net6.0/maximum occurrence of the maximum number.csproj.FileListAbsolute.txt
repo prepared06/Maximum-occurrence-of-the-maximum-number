@@ -1,0 +1,15 @@
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maximum occurrence of the maximum number.exe
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maximum occurrence of the maximum number.deps.json
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maximum occurrence of the maximum number.runtimeconfig.json
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maximum occurrence of the maximum number.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\ref\maximum occurrence of the maximum number.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maximum occurrence of the maximum number.pdb
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.csproj.AssemblyReference.cache
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.AssemblyInfoInputs.cache
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.AssemblyInfo.cs
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.csproj.CoreCompileInputs.cache
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\ref\maximum occurrence of the maximum number.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.pdb
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maximum occurrence of the maximum number.genruntimeconfig.cache

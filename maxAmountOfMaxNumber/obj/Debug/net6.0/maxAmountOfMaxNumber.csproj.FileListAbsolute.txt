@@ -1,0 +1,15 @@
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maxAmountOfMaxNumber.exe
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maxAmountOfMaxNumber.deps.json
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maxAmountOfMaxNumber.runtimeconfig.json
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maxAmountOfMaxNumber.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\ref\maxAmountOfMaxNumber.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\bin\Debug\net6.0\maxAmountOfMaxNumber.pdb
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.csproj.AssemblyReference.cache
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.AssemblyInfoInputs.cache
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.AssemblyInfo.cs
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\ref\maxAmountOfMaxNumber.dll
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.pdb
+C:\Users\uswer\source\repos\tasks\Kanini\maxAmountOfMaxNumber\maxAmountOfMaxNumber\obj\Debug\net6.0\maxAmountOfMaxNumber.genruntimeconfig.cache
